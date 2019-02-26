@@ -6,6 +6,6 @@ Jose Antonio Parra Sánchez
 ``` java
 
 private void hola(){
-	system.out.println("hola")
+	system.out.println("hola");
 }
 ```
